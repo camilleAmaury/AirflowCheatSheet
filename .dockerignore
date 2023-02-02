@@ -1,4 +1,5 @@
 # Put file or folder you want to ignore
 .git
 .env
-node_modules
+.md
+.yaml
